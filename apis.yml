@@ -10,6 +10,17 @@ description: 'Chroma Medicine was a Boston-based, clinical-stage biotechnology c
   As a therapeutics developer it publishes no developer program, public API, SDK, or
   machine-readable specification of any kind.'
 url: https://raw.githubusercontent.com/api-evangelist/chroma-medicine/refs/heads/main/apis.yml
+deliveryModel:
+  model: unknown
+  open_source: false
+  commercial: false
+  callable_host: false
+  label: Delivery model not determined — needs a product licence on record
+  confidence: low
+  source:
+  - none
+  generated: '2026-08-28'
+  method: derived
 image: https://www.nchromabio.com/wp-content/uploads/2026/03/cropped-nChroma-Isolated-Logo-270x270.jpg
 x-type: company
 x-source: harvest:secondary-market
